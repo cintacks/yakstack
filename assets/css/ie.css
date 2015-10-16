@@ -1,0 +1,8 @@
+body #wooslider_slideshow_slides-2 .wooslider.wooslider-type-slides img {
+	width: 100%;
+}
+
+.bluebar {
+	position: relative;
+	left:-50rem;
+}
